@@ -1,8 +1,5 @@
 # Titanic-Data
 
-# Read about Titanic and the catastrophe
-# Download the dataset (file ...), become familiar with the dataset (types of data, meaning)
-# Assess the data quality. 
 ## Check the dataset against:
 1. Outliers,
 2. Duplicates,
