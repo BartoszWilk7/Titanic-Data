@@ -13,7 +13,7 @@
 
 Code Explanation
 The script is divided into the following sections:
-
+<pre>
 1. Read the data from the file
 Reads the Titanic dataset from a TSV file using the read_csv() function from the pandas library. The separator is set to \t since it is a TSV file.
 
