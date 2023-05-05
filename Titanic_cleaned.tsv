@@ -1,0 +1,163 @@
+PassengerId	Survived	Pclass	Name	Sex	SibSp	Parch	Ticket	Fare	Embarked	ship
+1	1	2.0	Hewlett, Mrs. (Mary D Kingcome)	female	0	0	248706	16.0	S	Titanic
+2	1	2.0	Williams, Mr. Charles Eugene	male	0	0	244373	13.0	S	Titanic
+3	0	3.0	Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)	female	1	0	345763	18.0	S	Titanic
+4	0	2.0	Fynney, Mr. Joseph J	male	0	0	239865	26.0	S	Titanic
+5	1	2.0	Beesley, Mr. Lawrence	male	0	0	248698	13.0	S	Titanic
+6	0	1.0	Fortune, Mr. Charles Alexander	male	3	2	19950	263.0	S	Titanic
+7	0	1.0	Holverson, Mr. Alexander Oskar	male	1	0	113789	52.0	S	Titanic
+8	0	3.0	Vander Planke, Miss. Augusta Maria	female	2	0	345764	18.0	S	Titanic
+9	0	2.0	Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)	female	1	0	11668	21.0	S	Titanic
+10	1	2.0	Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)	female	1	0	2926	26.0	S	Titanic
+11	1	2.0	Caldwell, Master. Alden Gates	male	0	2	248738	29.0	S	Titanic
+12	0	3.0	Waelens, Mr. Achille	male	0	0	345767	9.0	S	Titanic
+13	1	1.0	Fortune, Miss. Mabel Helen	female	3	2	19950	263.0	S	Titanic
+14	1	2.0	Doling, Mrs. John T (Ada Julia Bone)	female	0	1	231919	23.0	S	Titanic
+15	0	2.0	Kantor, Mr. Sinai	male	1	0	244367	26.0	S	Titanic
+16	0	1.0	Porter, Mr. Walter Chamberlain	male	0	0	110465	52.0	S	Titanic
+17	0	2.0	Turpin, Mr. William John Robert	male	1	0	11668	21.0	S	Titanic
+18	1	2.0	Webber, Miss. Susan	female	0	0	27267	13.0	S	Titanic
+19	1	2.0	Weisz, Mrs. Leopold (Mathilde Francoise Pede)	female	1	0	228414	26.0	S	Titanic
+20	0	2.0	Sobey, Mr. Samuel James Hayden	male	0	0	C.A. 29178	13.0	S	Titanic
+21	0	2.0	"Navratil, Mr. Michel (""Louis M Hoffman"")"	male	0	2	230080	26.0	S	Titanic
+22	0	2.0	Byles, Rev. Thomas Roussel Davids	male	0	0	244310	13.0	S	Titanic
+23	1	1.0	Chibnall, Mrs. (Edith Martha Bowerman)	female	0	1	113505	55.0	S	Titanic
+24	0	2.0	Hale, Mr. Reginald	male	0	0	250653	13.0	S	Titanic
+25	0	3.0	Leonard, Mr. Lionel	male	0	0	LINE	0.0	S	Titanic
+26	1	2.0	Becker, Master. Richard F	male	2	1	230136	39.0	S	Titanic
+27	0	1.0	Rood, Mr. Hugh Roscoe	male	0	0	113767	50.0	S	Titanic
+28	1	2.0	Pinsky, Mrs. (Rosa)	female	0	0	234604	13.0	S	Titanic
+29	0	2.0	Carbines, Mr. William	male	0	0	28424	13.0	S	Titanic
+30	1	2.0	Navratil, Master. Michel M	male	1	1	230080	26.0	S	Titanic
+31	0	2.0	"Yrois, Miss. Henriette (""Mrs Harbeck"")"	female	0	0	248747	13.0	S	Titanic
+32	1	1.0	Blank, Mr. Henry	male	0	0	112277	31.0	C	Titanic
+33	1	2.0	Cameron, Miss. Clear Annie	female	0	0	F.C.C. 13528	21.0	S	Titanic
+34	0	2.0	Givard, Mr. Hans Kristensen	male	0	0	250646	13.0	S	Titanic
+35	0	2.0	Jacobsohn, Mr. Sidney Samuel	male	1	0	243847	27.0	S	Titanic
+36	0	2.0	Bracken, Mr. James H	male	0	0	220367	13.0	S	Titanic
+37	1	1.0	Hoyt, Mr. Frederick Maxfield	male	1	0	19943	90.0	S	Titanic
+38	0	2.0	Fahlstrom, Mr. Arne Jonas	male	0	0	236171	13.0	S	Titanic
+39	0	2.0	Hold, Mr. Stephen	male	1	0	26707	26.0	S	Titanic
+40	0	1.0	Minahan, Dr. William Edward	male	2	0	19928	-90.0	Q	Titanic
+41	0	2.0	Carter, Rev. Ernest Courtenay	male	1	0	244252	26.0	S	Titanic
+42	1	2.0	Parrish, Mrs. (Lutie Davis)	female	0	1	230433	26.0	S	Titanic
+43	0	1.0	Harrison, Mr. William	male	0	0	112059	0.0	S	Titanic
+44	0	1.0	Cairns, Mr. Alexander	male	0	0	113798	31.0	S	Titanic
+45	1	3.0	Tornquist, Mr. William Henry	male	0	0	LINE	0.0	S	Titanic
+46	0	2.0	"Parkes, Mr. Francis ""Frank"""	male	0	0	239853	0.0	S	Titanic
+47	0	1.0	Smith, Mr. Richard William	male	0	0	113056	26.0	S	Titanic
+48	1	2.0	Hosono, Mr. Masabumi	male	0	0	237798	13.0	S	Titanic
+49	0	3.0	Johnson, Mr. William Cahoone Jr	male	0	0	LINE	0.0	S	Titanic
+50	0	2.0	Abelson, Mr. Samuel	male	1	0	P/PP 3381	24.0	C	Titanic
+51	0	2.0	Lahtinen, Mrs. William (Anna Sylfven)	female	1	1	250651	26.0	S	Titanic
+52	1	2.0	Kantor, Mrs. Sinai (Miriam Sternin)	female	1	0	244367	26.0	S	Titanic
+53	0	2.0	Moraweck, Dr. Ernest	male	0	0	29011	14.0	S	Titanic
+54	1	2.0	Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)	female	1	1	248738	29.0	S	Titanic
+55	1	2.0	Ball, Mrs. (Ada E Hall)	female	0	0	28551	13.0	S	Titanic
+56	0	3.0	Vander Planke, Mr. Leo Edmondus	male	2	0	345764	18.0	S	Titanic
+57	1	2.0	Navratil, Master. Edmond Roger	male	1	1	230080	26.0	S	Titanic
+58	1	1.0	Fortune, Miss. Alice Elizabeth	female	3	2	19950	263.0	S	Titanic
+59	0	2.0	Collander, Mr. Erik Gustaf	male	0	0	248740	13.0	S	Titanic
+60	0	2.0	Sedgwick, Mr. Charles Frederick Waddington	male	0	0	244361	13.0	S	Titanic
+61	0	2.0	Fox, Mr. Stanley Hubert	male	0	0	229236	13.0	S	Titanic
+62	1	2.0	"Brown, Miss. Amelia ""Mildred"""	female	0	0	248733	13.0	S	Titanic
+63	1	2.0	Smith, Miss. Marion Elsie	female	0	0	31418	13.0	S	Titanic
+64	0	1.0	Williams-Lambert, Mr. Fletcher Fellows	male	0	0	113510	35.0	S	Titanic
+65	1	1.0	Bowerman, Miss. Elsie Edith	female	0	1	113505	55.0	S	Titanic
+66	0	2.0	Funk, Miss. Annie Clemmer	female	0	0	237671	13.0	S	Titanic
+67	1	3.0	"Nakid, Miss. Maria (""Mary"")"	female	0	2	2653	15.7417	C	Titanic
+68	1	1.0	Holverson, Mrs. Alexander Oskar (Mary Aline Towner)	female	1	0	113789	52.0	S	Titanic
+69	1	2.0	Buss, Miss. Kate	female	0	0	27849	13.0	S	Titanic
+70	1	2.0	Lehmann, Miss. Bertha	female	0	0	SC 1748	12.0	C	Titanic
+71	1	1.0	Carter, Mr. William Ernest	male	1	2	113760	120.0	S	Titanic
+72	0	2.0	McKane, Mr. Peter David	male	0	0	28403	26.0	S	Titanic
+73	0	2.0	Gale, Mr. Shadrach	male	1	0	28664	21.0	S	Titanic
+74	1	1.0	Minahan, Miss. Daisy E	female	1	0	19928	90.0	Q	Titanic
+75	0	2.0	Cunningham, Mr. Alfred Fleming	male	0	0	239853	0.0	S	Titanic
+76	1	2.0	Silven, Miss. Lyyli Karoliina	female	0	2	250652	13.0	S	Titanic
+77	0	2.0	Matthews, Mr. William John	male	0	0	28228	13.0	S	Titanic
+78	1	2.0	Clarke, Mrs. Charles V (Ada Maria Winfield)	female	1	0	2003	26.0	S	Titanic
+79	1	2.0	"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")"	female	0	0	250655	26.0	S	Titanic
+80	1	2.0	Louch, Mrs. Charles Alexander (Alice Adelaide Slow)	female	1	0	SC/AH 3085	26.0	S	Titanic
+81	1	1.0	Carter, Miss. Lucile Polk	female	1	2	113760	120.0	S	Titanic
+82	0	1.0	Fortune, Mr. Mark	male	1	4	19950	263.0	S	Titanic
+83	1	2.0	Reynaldo, Ms. Encarnacion	female	0	0	230434	13.0	S	Titanic
+84	0	2.0	Milling, Mr. Jacob Christian	male	0	0	234360	13.0	S	Titanic
+85	0	2.0	Campbell, Mr. William	male	0	0	239853	0.0	S	Titanic
+86	0	1.0	Clifford, Mr. George Quincy	male	0	0	110465	52.0	S	Titanic
+87	0	2.0	Renouf, Mr. Peter Henry	male	1	0	31027	21.0	S	Titanic
+88	0	2.0	"Frost, Mr. Anthony Wood ""Archie"""	male	0	0	239854	0.0	S	Titanic
+89	1	1.0	Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)	female	1	0	19943	90.0	S	Titanic
+90	1	2.0	Quick, Mrs. Frederick Charles (Jane Richards)	female	0	2	26360	26.0	S	Titanic
+91	1	2.0	"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)"	female	1	0	226875	26.0	S	Titanic
+92	1	2.0	Quick, Miss. Phyllis May	female	1	1	26360	26.0	S	Titanic
+93	1	1.0	Crosby, Miss. Harriet R	female	0	2	WE/P 5735	71.0	S	Titanic
+94	1	2.0	Beane, Mr. Edward	male	1	0	2908	26.0	S	Titanic
+95	0	1.0	Nicholson, Mr. Arthur Ernest	male	0	0	693	26.0	S	Titanic
+96	1	2.0	Beane, Mrs. Edward (Ethel Clarke)	female	1	0	2908	26.0	S	Titanic
+97	0	2.0	Sharp, Mr. Percival James R	male	0	0	244358	26.0	S	Titanic
+98	1	2.0	Garside, Miss. Ethel	female	0	0	243880	13.0	S	Titanic
+99	1	2.0	Christy, Miss. Julie Rachel	female	1	1	237789	30.0	S	Titanic
+100	0	2.0	Downton, Mr. William James	male	0	0	28403	26.0	S	Titanic
+101	0	2.0	Jarvis, Mr. John Denzil	male	0	0	237565	15.0	S	Titanic
+102	0	2.0	Chapman, Mr. John Henry	male	1	0	SC/AH 29037	26.0	S	Titanic
+103	1	2.0	Leitch, Miss. Jessie Wills	female	0	0	248727	33.0	S	Titanic
+104	0	3.0	Johnson, Mr. Alfred	male	0	0	LINE	0.0	S	Titanic
+105	1	2.0	Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)	female	2	1	243847	27.0	S	Titanic
+106	1	2.0	Herman, Miss. Alice	female	1	2	220845	65.0	S	Titanic
+107	1	2.0	Becker, Miss. Marion Louise	female	2	1	230136	39.0	S	Titanic
+108	1	1.0	Barkworth, Mr. Algernon Henry Wilson	male	0	0	27042	30.0	S	Titanic
+109	0	1.0	Parr, Mr. William Henry Marsh	male	0	0	112052	0.0	S	Titanic
+110	1	2.0	Davis, Miss. Mary	female	0	0	237668	13.0	S	Titanic
+111	1	2.0	Doling, Miss. Elsie	female	0	1	231919	23.0	S	Titanic
+112	0	2.0	Eitemiller, Mr. George Floyd	male	0	0	29751	13.0	S	Titanic
+113	0	2.0	Butler, Mr. Reginald Fenton	male	0	0	234686	13.0	S	Titanic
+114	1	1.0	Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)	female	1	0	19996	52.0	S	Titanic
+115	1	2.0	Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)	female	1	1	29750	39.0	S	Titanic
+116	0	1.0	Davidson, Mr. Thornton	male	1	0	F.C. 12750	52.0	S	Titanic
+117	1	2.0	Wilhelms, Mr. Charles	male	0	0	244270	13.0	S	Titanic
+118	0	2.0	Watson, Mr. Ennis Hastings	male	0	0	239856	0.0	S	Titanic
+119	1	1.0	Hoytt, Mr. Frederick Maxfield	male	1	0	19943	90.0	S	Titanic
+120	0	2.0	Brown, Mr. Thomas William Solomon	male	1	1	29750	39.0	S	Titanic
+121	1	1.0	Dick, Mr. Albert Adrian	male	1	0	17474	57.0	S	Titanic
+122	0	2.0	"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")"	male	0	0	250655	26.0	S	Titanic
+123	1	1.0	Taylor, Mr. Elmer Zebley	male	1	0	19996	52.0	S	Titanic
+124	0	2.0	Greenberg, Mr. Samuel	male	0	0	250647	13.0	S	Titanic
+125	1	2.0	"Harper, Miss. Annie Jessie ""Nina"""	female	0	1	248727	33.0	S	Titanic
+126	0	2.0	Gillespie, Mr. William Henry	male	0	0	12233	13.0	S	Titanic
+127	0	2.0	Hodges, Mr. Henry Price	male	0	0	250643	13.0	S	Titanic
+128	1	2.0	Renouf, Mrs. Peter Henry (Lillian Jefferys)	female	3	0	31027	21.0	S	Titanic
+129	0	2.0	Bryhl, Mr. Kurt Arnold Gottfrid	male	1	0	236853	26.0	S	Titanic
+130	0	2.0	Knight, Mr. Robert J	male	0	0	239855	0.0	S	Titanic
+131	0	2.0	Berriman, Mr. William John	male	0	0	28425	13.0	S	Titanic
+132	0	2.0	Troupiansky, Mr. Moses Aaron	male	0	0	233639	13.0	S	Titanic
+133	1	1.0	Hawksford, Mr. Walter James	male	0	0	16988	30.0	S	Titanic
+134	0	1.0	Crosby, Capt. Edward Gifford	male	1	1	WE/P 5735	71.0	S	Titanic
+135	1	2.0	Sinkkonen, Miss. Anna	female	0	0	250648	13.0	S	Titanic
+136	1	2.0	Wells, Miss. Joan	female	1	1	29103	23.0	S	Titanic
+137	1	2.0	Herman, Mrs. Samuel (Jane Laver)	female	1	2	220845	65.0	S	Titanic
+138	1	1.0	Carter, Mrs. William Ernest (Lucile Polk)	female	1	2	113760	120.0	S	Titanic
+139	1	2.0	Hocking, Mrs. Elizabeth (Eliza Needs)	female	1	3	29105	23.0	S	Titanic
+140	1	1.0	Dick, Mrs. Albert Adrian (Vera Gillespie)	female	1	0	17474	57.0	S	Titanic
+141	0	1.0	Long, Mr. Milton Clyde	male	0	0	113501	30.0	S	Titanic
+142	0	2.0	Gaskell, Mr. Alfred	male	0	0	239865	26.0	S	Titanic
+143	0	2.0	Otter, Mr. Richard	male	0	0	28213	13.0	S	Titanic
+144	0	2.0	Ponesell, Mr. Martin	male	0	0	250647	13.0	S	Titanic
+145	1	1.0	Carter, Master. William Thornton II	male	1	2	113760	120.0	S	Titanic
+146	0	1.0	Andrews, Mr. Thomas Jr	male	0	0	112050	0.0	S	Titanic
+147	0	2.0	Meyer, Mr. August	male	0	0	248723	13.0	S	Titanic
+148	0	1.0	Fry, Mr. Richard	male	0	0	112058	0.0	S	Titanic
+149	0	1.0	Reuchlin, Jonkheer. John George	male	0	0	19972	0.0	S	Titanic
+150	1	1.0	Serepeca, Miss. Augusta	female	0	0	113798	31.0	C	Titanic
+151	0	2.0	Harper, Rev. John	male	0	1	248727	33.0	S	Titanic
+152	0	2.0	Carter, Mrs. Ernest Courtenay (Lilian Hughes)	female	1	0	244252	26.0	S	Titanic
+153	0	2.0	Gill, Mr. John William	male	0	0	233866	13.0	S	Titanic
+154	1	2.0	Bystrom, Mrs. (Karolina)	female	0	0	236852	13.0	S	Titanic
+155	0	1.0	Carlsson, Mr. Frans Olof	male	0	0	695	5.0	S	Titanic
+156	0	3.0	Vander Cruyssen, Mr. Victor	male	0	0	345765	9.0	S	Titanic
+157	1	2.0	Abelson, Mrs. Samuel (Hannah Wizosky)	female	1	0	P/PP 3381	24.0	C	Titanic
+158	1	2.0	Shelley, Mrs. William (Imanita Parrish Hall)	female	0	1	230433	26.0	S	Titanic
+159	0	2.0	Montvila, Rev. Juozas	male	0	0	211536	13.0	S	Titanic
+160	1	1.0	Graham, Miss. Margaret Edith	female	0	0	112053	30.0	S	Titanic
+161	1	1.0	Behr, Mr. Karl Howell	male	0	0	111369	30.0	C	Titanic
+162	1	1.0	Mr. Frederick Maxfield Hoyt	male	1	0	19943	90.0	S	Titanic
