@@ -1,5 +1,6 @@
 # Titanic-Data
-
+### Hyperlink:
+[Click here](https://github.dev/BartoszWilk7/Titanic-Data/blob/main/Titanic_Notebook.ipynb) to edit files.
 ## Check the dataset against:
 1. Outliers,
 2. Duplicates,
